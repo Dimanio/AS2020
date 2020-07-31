@@ -1,0 +1,10 @@
+<ASSetting>
+  <!--Строка подключения к базе-->
+  <ConnectString>Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=AtomSkills2020;Persist Security Info=True;User ID=AtomSkills2020</ConnectString>
+  <!--AES Шифрованный пароль подключения-->
+  <SQLPasswd>I+UnM/Cy1xp+qpdRl3ad7w==</SQLPasswd>
+  <!--Логин пользователя-->
+  <Login>as@as.ru</Login>
+  <!--AES Шифрованный пароль пользователя-->
+  <Passwd>gmSXZG8ql55oKwRbVwdCXA==</Passwd>
+</ASSetting>
